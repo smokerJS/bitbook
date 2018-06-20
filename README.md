@@ -21,13 +21,13 @@
 oracle Database 11<br>
 mybatis 와 Ojdbc6 를 이용<br><br>
 
->**Tools**<Br>
+>**Tools**<br>
 Eclipse<br>
 VSCode<br>
 Sqldeveloper<br>
 Balsamiq Mockups 3<br><br>
 
->**UI-Framework**<Br>
+>**UI-Framework**<br>
 Material Kit<br>
 sitemesh-3<br>
 Bootstrap4<br><br>
@@ -145,4 +145,4 @@ SourceTree<br>
 
 ---------------------------------------
 
-***bitbook v 1.1***
+***bitbook v 1.0***
