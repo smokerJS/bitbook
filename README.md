@@ -65,7 +65,7 @@ SourceTree<br>
 >---------
 >![enter image description here](https://s3-eu-west-1.amazonaws.com/froala-eu/temp_files%2F1529491484979-%ED%85%8C%EC%8A%A4%ED%8A%B8.png)
 ><br><br>
->[![Video Label](https://s3-eu-west-1.amazonaws.com/froala-eu/temp_files%2F1529493464319-1529493464318.png)](https://youtu.be/rDBUGfQheao) <br>
+>[![Video Label](https://t1.daumcdn.net/cfile/tistory/99EABA355B98CE0C28)](https://youtu.be/rDBUGfQheao) <br>
 >
 >**Facebook & Twitter hommage**<br><br>
 >웹앱 형식의 SNS 플랫폼을 참고하여<br>
@@ -77,7 +77,7 @@ SourceTree<br>
 >---------
 >![enter image description here](https://s3-eu-west-1.amazonaws.com/froala-eu/temp_files%2F1529485834131-1529485834131.png)
 ><br><br>
->[![Video Label](https://s3-eu-west-1.amazonaws.com/froala-eu/temp_files%2F1529493464319-1529493464318.png)](https://youtu.be/MHfNYveRXSA) <br>
+>[![Video Label](https://t1.daumcdn.net/cfile/tistory/99EABA355B98CE0C28)](https://youtu.be/MHfNYveRXSA) <br>
 >
 >**간단하고 한눈에 보기 쉬운 UI**<br><br>
 >친구 태그와 이미지 첨부<br>
@@ -89,7 +89,7 @@ SourceTree<br>
 >---------
 >![enter image description here](https://s3-eu-west-1.amazonaws.com/froala-eu/temp_files%2F1529486228985-1529486228985.png)
 ><br><br>
->[![Video Label](https://s3-eu-west-1.amazonaws.com/froala-eu/temp_files%2F1529493464319-1529493464318.png)](https://youtu.be/DBp5a5HnlEg) <br>
+>[![Video Label](https://t1.daumcdn.net/cfile/tistory/99EABA355B98CE0C28)](https://youtu.be/DBp5a5HnlEg) <br>
 >
 >**새로고침 되지 않는 다양한 기능**<br><br>
 >게시글과 덧글<br>
@@ -104,7 +104,7 @@ SourceTree<br>
 >---------
 >![enter image description here](https://s3-eu-west-1.amazonaws.com/froala-eu/temp_files%2F1529486746785-1529486746785.png)
 ><br><br>
->[![Video Label](https://s3-eu-west-1.amazonaws.com/froala-eu/temp_files%2F1529493464319-1529493464318.png)](https://youtu.be/NGQVilo5bok) <br>
+>[![Video Label](https://t1.daumcdn.net/cfile/tistory/99EABA355B98CE0C28)](https://youtu.be/NGQVilo5bok) <br>
 >
 >**Order - new . like . comment**<br>
 >**Filter - All . Friends . My**<br><br>
@@ -121,7 +121,7 @@ SourceTree<br>
 >---------
 >![enter image description here](https://s3-eu-west-1.amazonaws.com/froala-eu/temp_files%2F1529487710692-1529487710692.png)
 ><br><br>
->[![Video Label](https://s3-eu-west-1.amazonaws.com/froala-eu/temp_files%2F1529493464319-1529493464318.png)](https://youtu.be/KQ5S0dlhjSI) <br>
+>[![Video Label](https://t1.daumcdn.net/cfile/tistory/99EABA355B98CE0C28)](https://youtu.be/KQ5S0dlhjSI) <br>
 
 >**ajax를 이용하여 실시간 친구목록을 구현**<br><br>
 >친구들의 활동여부 **on - off** 상태 확인과<br>
