@@ -40,7 +40,7 @@ SourceTree<br>
 (https://github.com/uyCHOI/bitbook)<br>
 
 ---------------------------------------
-![enter image description here](https://t1.daumcdn.net/cfile/tistory/991FB1505B98D25624)
+![Alt Text](./readMeImg/1_member.jpg)
 
 ---------------------------------------
 
@@ -63,9 +63,9 @@ SourceTree<br>
 
 >Main View
 >---------
->![enter image description here](https://t1.daumcdn.net/cfile/tistory/99FCC7505B98D2560A)
+>![Alt Text](./readMeImg/2_main.png)
 ><br><br>
->[![Video Label](https://t1.daumcdn.net/cfile/tistory/991FF14A5B98D2871F)](https://youtu.be/rDBUGfQheao) <br>
+>[![Video Label](./readMeImg/youtube.png)](https://youtu.be/rDBUGfQheao) <br>
 >
 >**Facebook & Twitter hommage**<br><br>
 >웹앱 형식의 SNS 플랫폼을 참고하여<br>
@@ -75,9 +75,9 @@ SourceTree<br>
 
 >Create Post
 >---------
->![enter image description here](https://t1.daumcdn.net/cfile/tistory/994D38505B98D25701)
+>![Alt Text](./readMeImg/3_create.png)
 ><br><br>
->[![Video Label](https://t1.daumcdn.net/cfile/tistory/991FF14A5B98D2871F)](https://youtu.be/MHfNYveRXSA) <br>
+>[![Video Label](./readMeImg/youtube.png)](https://youtu.be/MHfNYveRXSA) <br>
 >
 >**간단하고 한눈에 보기 쉬운 UI**<br><br>
 >친구 태그와 이미지 첨부<br>
@@ -87,9 +87,9 @@ SourceTree<br>
 
 >Detail and Comment
 >--------- 
->![enter image description here](https://t1.daumcdn.net/cfile/tistory/9950C73D5B98D5643E)
+>![Alt Text](./readMeImg/4_comment.gif)
 ><br><br>
->[![Video Label](https://t1.daumcdn.net/cfile/tistory/991FF14A5B98D2871F)](https://youtu.be/DBp5a5HnlEg) <br>
+>[![Video Label](./readMeImg/youtube.png)](https://youtu.be/DBp5a5HnlEg) <br>
 >
 >**새로고침 되지 않는 다양한 기능**<br><br>
 >게시글과 덧글<br>
@@ -102,9 +102,9 @@ SourceTree<br>
 
 >Search
 >---------
->![enter image description here](https://t1.daumcdn.net/cfile/tistory/99FBE3505B98D2840B)
+>![Alt Text](./readMeImg/5_search.png)
 ><br><br>
->[![Video Label](https://t1.daumcdn.net/cfile/tistory/991FF14A5B98D2871F)](https://youtu.be/NGQVilo5bok) <br>
+>[![Video Label](./readMeImg/youtube.png)](https://youtu.be/NGQVilo5bok) <br>
 >
 >**Order - new . like . comment**<br>
 >**Filter - All . Friends . My**<br><br>
@@ -113,15 +113,15 @@ SourceTree<br>
 >최신순 좋아요순 댓글순의 정렬을 지원<br>
 >모든 검색조건은 합산방식(And)<br>
 
->![enter image description here](https://t1.daumcdn.net/cfile/tistory/99BE29505B98D28531)<br>
+>![Alt Text](./readMeImg/6_query.png)<br>
 
 ---------------------------------------
 
 >Friends list
 >---------
->![enter image description here](https://t1.daumcdn.net/cfile/tistory/99A317505B98D28533)
+>![Alt Text](./readMeImg/7_friends.png)
 ><br><br>
->[![Video Label](https://t1.daumcdn.net/cfile/tistory/991FF14A5B98D2871F)](https://youtu.be/KQ5S0dlhjSI) <br>
+>[![Video Label](./readMeImg/youtube.png)](https://youtu.be/KQ5S0dlhjSI) <br>
 
 >**ajax를 이용하여 실시간 친구목록을 구현**<br><br>
 >친구들의 활동여부 **on - off** 상태 확인과<br>
@@ -133,7 +133,7 @@ SourceTree<br>
 >---------
 >**domain / controller / mapper / utill**<br>
 >
->![enter image description here](https://t1.daumcdn.net/cfile/tistory/99D33C505B98D2862F)
+>![Alt Text](./readMeImg/8_project.png)
 
 ---------------------------------------
 
@@ -141,7 +141,7 @@ SourceTree<br>
 >---------
 >**소스트리를 사용하여 수정 및 업데이트가 있을때마다 수시로 관리**<br>
 >
->![enter image description here](https://t1.daumcdn.net/cfile/tistory/99B8944A5B98D2860F)<br>
+>![Alt Text](./readMeImg/9_source.png)<br>
 
 ---------------------------------------
 
