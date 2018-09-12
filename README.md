@@ -86,7 +86,7 @@ SourceTree<br>
 ---------------------------------------
 
 >Detail and Comment
->---------
+>--------- 
 >![enter image description here](https://t1.daumcdn.net/cfile/tistory/9950C73D5B98D5643E)
 ><br><br>
 >[![Video Label](https://t1.daumcdn.net/cfile/tistory/991FF14A5B98D2871F)](https://youtu.be/DBp5a5HnlEg) <br>
